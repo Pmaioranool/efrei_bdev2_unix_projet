@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# sudo apt update
-# sudo apt install bc
-# sudo adduser "non_autorisé"
-
 # Création des logs
 mkdir -p logs
 echo "" >logs/process_suspects.log
